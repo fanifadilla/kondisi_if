@@ -1,0 +1,6 @@
+jarak_rumah = 4.1
+
+if jarak_rumah > 10:
+    print("jarak rumah jauh")
+elif jarak_rumah < 5:
+    print("jarak rumah dekat")
